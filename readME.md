@@ -12,10 +12,10 @@
 
 ## CONTACT ME
 
-- +84 813 - 042 - 255 | nvhai2408@gmail.com
+- +84 813 042 255 | nvhai2408@gmail.com
 - github: https://github.com/nvhai248/UChat
 - leetcode: https://leetcode.com/nvhai248/
-- linkedin: https://www.linkedin.com/in/h%E1%BA%A3i-nguy%E1%BB%85n-883883249/
+- linkedin: https://www.linkedin.com/in/nvhai248/
 
 # ABOUT ME
 
@@ -31,7 +31,6 @@ University of Science. I have a strong passion for technology and am particularl
 - DATABASE:
   - SQL: MYSQL, SQLSERVER, POSTGRESQL
   - NOSQL: MONGODB
-  - CACHE: REDIS
 - TECHNICAL DOCUMENTATION
 
 # EDUCATION BACKGROUND

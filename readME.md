@@ -13,25 +13,29 @@
 ## CONTACT ME
 
 - +84 813 042 255 | nvhai2408@gmail.com
-- github: https://github.com/nvhai248/UChat
+- github: https://github.com/nvhai248/
 - leetcode: https://leetcode.com/nvhai248/
 - linkedin: https://www.linkedin.com/in/nvhai248/
 
 # ABOUT ME
 
-I am pursuing a third-year BS degree in Software Engineering at the Ho Chi Minh
-University of Science. I have a strong passion for technology and am particularly interested in system architectures. Throughout my studies and work, I have gained valuable knowledge and practical experience in programming languages such as javascript and Golang, as well as in software development methodologies such as Agile and Waterfall. I am a quick learner and have a keen eye for detail, which helps me identify and solve problems efficiently. I am also a team player and enjoy collaborating with others to achieve common goals. In my free time, I like to explore new technologies and work on personal coding projects to further enhance my skills. I am excited about the opportunity to apply my skills and knowledge to real-world challenges and am eager to learn and grow in a dynamic and innovative work environment.
+My name is Nguyen Van Hai and I am excited to apply for IT positions. I am pursuing a third-year BS degree in Information Technology at the Ho Chi Minh
+University of Science. I have a solid foundation in basic HTML, CSS, Javascript and NodeJS skills. As a motivated and passionate individual, my goal is to find a dynamic work environment where I can continue to grow and expand my knowledge in the field while solving complex problems.
+
+In my free time, I enjoy exploring new technologies and sports. I believe in continually pushing myself to learn and improve, both personally and professionally.
+
+I am confident that my skills and passion would make a valuable addition to any IT team. Thank you for considering my application.
 
 # TECHNICAL - NON-TECHNICAL SKILLS
 
-- KNOWLEDGE OF BASIC ALGORITHMS AND DATA STRUCTURES
-- GOLANG BACK END
-- BASIC HTML, CSS, JS
+- Knowledge of basic algorithms and data structures
+- Basic python and C++
+- Basic HTML, CSS, JS
 - GIT
-- DATABASE:
+- Database:
   - SQL: MYSQL, SQLSERVER, POSTGRESQL
   - NOSQL: MONGODB
-- TECHNICAL DOCUMENTATION
+- Read technical documentation
 
 # EDUCATION BACKGROUND
 
@@ -43,6 +47,32 @@ University of Science. I have a strong passion for technology and am particularl
 
 1. UCHAT WEB
    - Mar 2023 - now
-   - Technical: `NodeJS`, `ExpressJS`, `PassportJS`
+   - Technical: `NodeJS`, `ExpressJS`, `PassportJS`, `MongoDB`
    - Role: Building login and authorization with google, facebook and Chatting.
    - Link: https://github.com/nvhai248/UChat
+
+2. HEALU WEB
+   - Oct 2022 - Feb 2023
+   - Technical: `NodeJS`, `ExpressJS`, `Handlebars`, `MongoDB`
+   - Role: Build simple Hospital website and management multiple account types.
+   - Link: https://github.com/nvhai248/HealU-Web
+
+3. TOP-MOVIES WEB
+   - Nov 2022
+   - Technical: `NodeJS`, `ExpressJS`, `Handlebars`, `PostgreSQL`
+   - Role: Build simple Movie website and using PostgreSQL for database.
+   - Link: https://github.com/nvhai248/Top-movies/tree/master/database
+
+4. SOCKET IN PYTHON
+   - Dec 2021
+   - Technical: `Python`, `tkinter`
+   - Role: Build simple app using socket for send and receive between client and server, using tkinter for interface.
+   - Link: https://github.com/nvhai248/Socket/tree/master/Draft
+
+# CERTIFICATES
+
+1. Hadoop Certificate in CognitiveAI
+    link: https://courses.cognitiveclass.ai/certificates/63640e55d99e43d7acc931c267b1e741
+  
+2. Spark Certificate in CognitiveAI
+   link: https://courses.cognitiveclass.ai/certificates/64fad6157390434aa67e587fe2e32983

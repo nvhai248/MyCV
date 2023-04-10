@@ -16,6 +16,7 @@
 - github: https://github.com/nvhai248/
 - leetcode: https://leetcode.com/nvhai248/
 - linkedin: https://www.linkedin.com/in/nvhai248/
+- hackerrank: https://www.hackerrank.com/20120468_NVHai
 
 # ABOUT ME
 
